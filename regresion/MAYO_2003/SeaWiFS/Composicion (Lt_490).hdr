@@ -1,0 +1,25 @@
+ENVI
+description = {
+  Band Math Result, Expression = [(b1+b2+b3+b4+b5+b6+b7+b8)/8]
+  B1:Banda_490:SW25052003_1940_recorte B2:Banda_490:SW20052003_1933_recorte
+  B3:Banda_490:SW15052003_1925_recorte B4:Banda_490:SW13052003_1942_recorte
+  B5:Banda_490:SW10052003_1918_recorte B6:Banda_490:SW08052003_1935_recorte
+  B7:Banda_490:SW06052003_1951_recorte B8:Banda_490:SW05052003_1910_recorte
+  [Thu Jul 26 20:17:06 2018]}
+samples = 167
+lines   = 127
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 977
+y start = 726
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, -112.01577765, 27.85710491, 8.9813077271e-003, 8.9831965237e-003, WGS84, units=Degrees}
+coordinate system string = {GEOGCS["WGS84(DD)",DATUM["WGS84",SPHEROID["WGS84",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["degree",0.0174532925199433]]}
+wavelength units = Unknown
+pixel size = {8.98130773e-003, 8.98319652e-003, units=Meters}
+band names = {
+ Band Math ((b1+b2+b3+b4+b5+b6+b7+b8)/8)}
